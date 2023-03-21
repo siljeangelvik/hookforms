@@ -1,5 +1,8 @@
 # Hook Forms
 
+Host: [Netlify](https://hookforms.netlify.app/)    
+GitHub: [Repo](https://github.com/siljeangelvik/hookforms)  
+
 ## Project Setup
 
 ### `npm start`
